@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         //add c
 
+        //added first method of funcionalidade K
+
     }
 }
