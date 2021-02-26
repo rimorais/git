@@ -11,5 +11,9 @@ class MainActivity : AppCompatActivity() {
 
         //Add and a
 
+        //add b
+
+        //add c
+
     }
 }
